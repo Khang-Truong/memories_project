@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=aibtHnbeuio&list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SR
 - Express
 - React
 - Node JS
+- Redux
 
 # How to run it
 - Create a new cluster in cloud.mongodb.com
